@@ -26,7 +26,7 @@ Aplicación e-commerce moderna desarrollada con React y Vite que utiliza Firebas
 ### Pasos de Instalación
 1. Clonar repositorio:
    
-   - git clone https://github.com/stocaimaza/tienda-marolio.git
+   - git clone https://github.com/stocaimaza/63425--tpfinal.git
    - cd tienda-marolio
    - npm install 
    - npm run dev 
